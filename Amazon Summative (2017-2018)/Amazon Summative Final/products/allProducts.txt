@@ -1,0 +1,13 @@
+
+product1
+type
+brand name
+0009999
+this is a product yes
+01
+spec1
+spec2
+01
+user1
+Wed Jan 24 19:48:25 2018
+Wed Jan 24 19:48:25 2018
