@@ -18,15 +18,15 @@ The program's controls should be fairly intuitive as per the criteria of the ass
     - allowing other users to permanently buy items in an "add to cart" style  
 
 Information about created accounts is kept in an enclosed folder and passwords are encrypted as per the following cipher:  
-       0 1 2 3 4 5 6 7  
-    0  a i q y G O W 4  
-    8  b j r z H P X 5  
-    16 c k s A I Q Y 6  
-    24 d l t B J R Z 7  
-    32 e m u D K S 0 8  
-    40 f n v E L T 1 9  
-    48 g o w E M U 2  
-    56 h p x F N V 3  
+           0 1 2 3 4 5 6 7  
+        0  a i q y G O W 4  
+        8  b j r z H P X 5  
+        16 c k s A I Q Y 6  
+        24 d l t B J R Z 7  
+        32 e m u D K S 0 8  
+        40 f n v E L T 1 9  
+        48 g o w E M U 2  
+        56 h p x F N V 3  
   
 The indicated numbers are added up and converted to hexadecimal to form one character.
   
